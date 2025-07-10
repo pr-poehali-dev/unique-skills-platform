@@ -58,7 +58,7 @@ const Index = () => {
       rating: 4.9,
       sessions: 234,
       price: "2000 ₽/час",
-      image: "/img/ac9b7f61-bb64-4827-9195-f0412d5a3d63.jpg",
+      image: "/img/78a7e2a2-0fe5-468b-9e5b-8164d755c24e.jpg",
     },
     {
       name: "Михаил Сергеев",
@@ -67,7 +67,7 @@ const Index = () => {
       rating: 4.8,
       sessions: 187,
       price: "1800 ₽/час",
-      image: "/img/ac9b7f61-bb64-4827-9195-f0412d5a3d63.jpg",
+      image: "/img/5636a765-0140-4ca2-94e5-2786c44759f1.jpg",
     },
     {
       name: "Елена Волкова",
@@ -76,7 +76,7 @@ const Index = () => {
       rating: 4.9,
       sessions: 156,
       price: "1500 ₽/час",
-      image: "/img/ac9b7f61-bb64-4827-9195-f0412d5a3d63.jpg",
+      image: "/img/dc4e8d08-01fe-41ff-8027-26dd58f701a4.jpg",
     },
   ];
 
